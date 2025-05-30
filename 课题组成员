@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>课题组成员 - 李朝霞课题组</title>
+  <style>
+    body { font-family: "微软雅黑", Arial, sans-serif; background: #f9f9f9; margin: 0; }
+    header { background: #004466; color: #fff; padding: 2rem 1rem; }
+    nav { margin-top: 1rem; }
+    nav a { color: #fff; margin-right: 2rem; text-decoration: none; font-size: 1.1em; }
+    main { max-width: 700px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px #eee; }
+    footer { text-align: center; color: #888; margin: 2rem 0 1rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>李朝霞课题组</h1>
+    <nav>
+      主页
+      课题组成员
+      发表论文
+      专利情况
+      成果展示
+      
+    </nav>
+  </header>
+  <main>
+    <h2>课题组成员</h2>
+    <ul>
+      <li><strong>教师：</strong>李朝霞（教授）</li>
+      <li><strong>博士研究生：</strong>杜映妮（2021级）、汪运东（2022级）、敖利满（2024级）</li>
+      <li><strong>硕士研究生：</strong>秦子怡（2023级）、郭乐斌（2023级）、程子夜（2024级）、王浩坤（2024级）、冯巳平（2024级）</li>
+    </ul>
+  </main>
+  <footer>
+    © 2025 李朝霞课题组
+  </footer>
+</body>
+</html>
