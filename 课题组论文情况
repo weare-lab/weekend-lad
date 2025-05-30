@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>发表论文 - 李朝霞课题组</title>
+  <style>
+    body { font-family: "微软雅黑", Arial, sans-serif; background: #f9f9f9; margin: 0; }
+    header { background: #004466; color: #fff; padding: 2rem 1rem; }
+    nav { margin-top: 1rem; }
+    nav a { color: #fff; margin-right: 2rem; text-decoration: none; font-size: 1.1em; }
+    main { max-width: 800px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px #eee; }
+    h3 { margin-top: 2em; }
+    .paper { margin-bottom: 1.5em; }
+    .paper-title { font-weight: bold; color: #2c3e50; }
+    .paper-authors { color: #7f8c8d; font-size: 0.95em; }
+    .paper-journal { font-style: italic; color: #16a085; }
+    .paper-keywords { font-size: 0.9em; color: #e74c3c; }
+    .paper-doi { font-size: 0.9em; color: #3498db; }
+    footer { text-align: center; color: #888; margin: 2rem 0 1rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>李朝霞课题组</h1>
+    <nav>
+      主页
+      课题组成员
+      发表论文
+      专利情况
+      成果展示
+      
+    </nav>
+  </header>
+  <main>
+    <h2>发表论文</h2>
+    <div class="paper">
+      <div class="paper-title">丹江口库区不同降雨类型下典型植被措施的水土保持效应</div>
+      <div class="paper-authors">杜映妮, 周怡雯, 李朝霞, 姜海, 郭忠录</div>
+      <div class="paper-journal">水土保持学报, 2023, 37(02): 51-57+66</div>
+      <div class="paper-keywords">关键词：水土保持; 降雨类型; 植被恢复措施; 丹江口库区</div>
+      <div class="paper-doi">DOI: 10.13870/j.cnki.stbcxb.2023.02.007</div>
+    </div>
+    <div class="paper">
+      <div class="paper-title">三峡库区典型茶园土壤水分对不同降雨模式的响应</div>
+      <div class="paper-authors">周怡雯, 戴翠婷, 杜映妮, 李朝霞, 王天巍, 袁睿晗</div>
+      <div class="paper-journal">生态学报, 2023, 43(03): 1267-1275</div>
+      <div class="paper-keywords">关键词：土壤水分; 茶园; 降雨模式; 三峡库区</div>
+      <div clas
