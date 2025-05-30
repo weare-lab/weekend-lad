@@ -6,5 +6,5 @@
 组员：王浩坤-负责课题组发表专利和奖项的搜集
 完成信息收集后组内4人共同运用豆包和deepseek模型来制作课题组网站
 
-
+课题组网站：https://weare-lab.github.io/weekend-lad/
 
