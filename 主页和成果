@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>李朝霞课题组 - 主页</title>
+  <style>
+    body { font-family: "微软雅黑", Arial, sans-serif; background: #f9f9f9; margin: 0; }
+    header { background: #004466; color: #fff; padding: 2rem 1rem; }
+    nav { margin-top: 1rem; }
+    nav a { color: #fff; margin-right: 2rem; text-decoration: none; font-size: 1.1em; }
+    main { max-width: 700px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px #eee; }
+    footer { text-align: center; color: #888; margin: 2rem 0 1rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>李朝霞课题组</h1>
+    <nav>
+      <a href="index.html">主页</a>
+      <a href="members.html">课题组成员</a>
+      <a href="publications.html">发表论文</a>
+      <a href="patents.html">专利情况</a>
+      <a href="gallery.html">成果展示</a>
+      <a href="https://zyhj.hzau.edu.cn/info/1183/7591.htm" target="_blank">老师主页</a>
+    </nav>
+  </header>
+  <main>
+    <h2>课题组简介</h2>
+    <p>
+      导师姓名：李朝霞<br>
+      职称：教授/博士生导师（请核实）<br>
+      研究方向：土壤侵蚀机理与防治、流域生态修复、水土保持工程技术<br>
+      所属单位：华中农业大学资源与环境学院
+    </p>
+  </main>
+  <footer>
+    © 2025 李朝霞课题组
+  </footer>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>成果展示 - 李朝霞课题组</title>
+  <style>
+    body { font-family: "微软雅黑", Arial, sans-serif; background: #f9f9f9; margin: 0; }
+    header { background: #004466; color: #fff; padding: 2rem 1rem; }
+    nav { margin-top: 1rem; }
+    nav a { color: #fff; margin-right: 2rem; text-decoration: none; font-size: 1.1em; }
+    main { max-width: 900px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px #eee; }
+    .gallery { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .gallery img { width: 260px; border-radius: 0.5rem; background: #eee; }
+    footer { text-align: center; color: #888; margin: 2rem 0 1rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>李朝霞课题组</h1>
+    <nav>
+      <a href="index.html">主页</a>
+      <a href="members.html">课题组成员</a>
+      <a href="publications.html">发表论文</a>
+      <a href="patents.html">专利情况</a>
+      <a href="gallery.html">成果展示</a>
+      <a href="https://zyhj.hzau.edu.cn/info/1183/7591.htm" target="_blank">老师主页</a>
+    </nav>
+  </header>
+<section id="gallery">
+  <h2>成果展示</h2>
+  <div class="gallery">
+    <img src="1.png" alt="成果1">
+    <img src="2.png" alt="成果2">
+    <img src="3.png" alt="成果3">
+  </div>
+</section>
+  <footer>
+    © 2025 李朝霞课题组
+  </footer>
+</body>
+</html>
